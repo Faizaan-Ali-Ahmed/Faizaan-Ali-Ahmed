@@ -37,10 +37,23 @@
 
 ---
 
-## 🏆 GitHub Achievements  
+## 🏆 **Cyberpunk GitHub Achievements** ⚡  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faizaan-Ali-Ahmed&theme=matrix&no-frame=true&column=6">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FFFF&text=🏆%20Achievements%20🏆&height=50&section=header&fontSize=40&fontAlignY=35"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Faizaan-Ali-Ahmed&theme=matrix&no-frame=false&margin-w=15&column=6">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FFFF&text=🚀%20Keep%20Building!%20🚀&height=50&section=footer&fontSize=30&fontAlignY=50"/>
+</p>
+
+
+
+
 
 ---
 
