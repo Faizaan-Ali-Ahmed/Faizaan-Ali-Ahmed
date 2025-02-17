@@ -33,7 +33,7 @@
 <!-- GitHub Contributions Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizaan-Ali-Ahmed&theme=react-dark&hide_border=true" width="95%"/>
-</p>
+</p> 
 
 ---
 
