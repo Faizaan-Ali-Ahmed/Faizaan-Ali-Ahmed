@@ -11,7 +11,7 @@
 ## 🚀 About Me
 💡 **A passionate Full Stack Developer specialized in MERN Stack & Tailwind CSS.**  
 🌍 **Building high-performance, scalable, and responsive web applications.**  
-🚀 **Exploring Next.js, TypeScript, and AI-powered applications.**  
+🚀 **Exploring Next.js.**  
 💬 **Ask me about JavaScript, React, Node.js, and more!**  
 📫 **Reach me at: [Email](mailto:faizaanali553@gmail.com) | [LinkedIn](https://linkedin.com/in/your-profile)**  
 
@@ -27,7 +27,7 @@
 ## 📊 GitHub Stats & Contributions  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizaan-Ali-Ahmed&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizaan-Ali-Ahmed&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+ 
 </p>
 
 <!-- GitHub Contributions Graph -->
@@ -37,39 +37,7 @@
 
 ---
 
-## 🏆 **Cyberpunk GitHub Achievements** ⚡  
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FFFF&text=🏆%20Achievements%20🏆&height=50&section=header&fontSize=40&fontAlignY=35"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faizaan-Ali-Ahmed&theme=matrix&no-frame=false&margin-w=15&column=6">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FFFF&text=🚀%20Keep%20Building!%20🚀&height=50&section=footer&fontSize=30&fontAlignY=50"/>
-</p>
-
-
-
-
-
----
-
-## 🔥 Featured Projects  
-🎯 **[Project 1](#)** – A powerful MERN Stack app  
-💻 **[Project 2](#)** – A fully responsive Tailwind website  
-🚀 **[Project 3](#)** – A JavaScript game or app  
-
----
-
-## 🌟 Fun Facts  
-🎮 **Gaming enthusiast & tech explorer**  
-🎶 **Loves music & experimenting with AI**  
-🍕 **Pizza over everything!**  
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
